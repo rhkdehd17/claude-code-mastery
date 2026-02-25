@@ -3,3 +3,14 @@
     "model": "Haiku",
     "outputStyle": "Explanatory"
 }
+
+// {
+//     "permissions": {
+//       "allow": [
+//         "Bash(git checkout main)",
+//         "Bash(git merge hotfix-결제오류)",
+//         "Bash(git merge develope)"
+//       ]
+//     },
+//     "outputStyle": "Explanatory"
+//   }
