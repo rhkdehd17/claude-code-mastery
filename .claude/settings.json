@@ -3,15 +3,4 @@
     "model": "Haiku",
     "outputStyle": "Explanatory",
     "language": "Korean"
-}   
-
-// {
-//     "permissions": {
-//       "allow": [
-//         "Bash(git checkout main)",
-//         "Bash(git merge hotfix-결제오류)",
-//         "Bash(git merge develope)"
-//       ]
-//     },
-//     "outputStyle": "Explanatory"
-//   }
+}
