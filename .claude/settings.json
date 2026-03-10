@@ -1,8 +1,9 @@
 {
     "plansDirectory": ".claude/plans/",
     "model": "Haiku",
-    "outputStyle": "Explanatory"
-}
+    "outputStyle": "Explanatory",
+    "language": "Korean"
+}   
 
 // {
 //     "permissions": {
